@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = Untitled 5
+tour.name = Bank Hall, Bretherton
 
 ## Skin
 
@@ -16,6 +16,7 @@ IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
 ## Media
 
 ### Title
+map_CEAE606B_C547_484B_41C2_8F148501ECE2.label = IMG_2486c
 panorama_B000F20F_B939_E036_41CE_81CE0F864785.label = GSAF4007
 panorama_B0010619_B939_E05A_41DD_E83B3080FC84.label = GSAF4009
 panorama_B0010B10_B93A_202A_41E1_A1A22547A1DE.label = GSAF4011
