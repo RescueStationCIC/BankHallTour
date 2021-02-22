@@ -20,43 +20,18 @@
     </organizations>
     <resources>
         <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="index.htm">
-<file href="fonts/IM FELL English Roman.svg"/>
 <file href="media/album_D06195AF_C89F_D92B_41B2_6AA54A6CFA64_11_t.jpg"/>
-<file href="script_mobile.js"/>
+<file href="media/panorama_B00514F4_B93A_E1EA_41BC_7B8A372C7F86_hd_t.jpg"/>
 <file href="media/panorama_B00F8B4F_B936_E036_41C8_96D5FAC469FA_hd_t.jpg"/>
-<file href="media/photo_DB9C4FFD_C899_E92F_41C2_37E9BA09C4B7.jpg"/>
+<file href="media/photo_DB9C6415_C899_DEFF_41DE_B23D7307500A_t.jpg"/>
 <file href="media/album_D06195AF_C89F_D92B_41B2_6AA54A6CFA64_8.jpg"/>
 <file href="skin/IconButton_12D5DAF7_1C9E_BB08_416D_19DFFACBC396.png"/>
-<file href="media/panorama_B00514F4_B93A_E1EA_41BC_7B8A372C7F86_hd_t.jpg"/>
 <file href="media/album_D06195AF_C89F_D92B_41B2_6AA54A6CFA64_9_t.jpg"/>
+<file href="lib/tdvplayer.js"/>
 <file href="fonts/IM FELL English Roman.ttf"/>
 <file href="fonts/IM FELL English Roman.woff"/>
 <file href="fonts/IM FELL English Roman.eot"/>
 <file href="fonts/IM FELL English Roman.svg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/r/1/1_0.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/r/1/1_1.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/r/1/0_0.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/r/1/0_1.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/l/1/1_0.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/l/1/1_1.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/l/1/0_0.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/l/1/0_1.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/u/1/1_0.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/u/1/1_1.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/u/1/0_0.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/u/1/0_1.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/d/1/1_0.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/d/1/1_1.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/d/1/0_0.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/d/1/0_1.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/f/1/1_0.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/f/1/1_1.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/f/1/0_0.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/f/1/0_1.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/b/1/1_0.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/b/1/1_1.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/b/1/0_0.jpg"/>
-<file href="media/panorama_B005FF40_B93A_E02A_41DC_F2439717359B_0/b/1/0_1.jpg"/>
 <file href="media/panorama_B00140B8_B93A_205A_41AC_185DC266548E_0/r/2/0_0.jpg"/>
 <file href="media/panorama_B00140B8_B93A_205A_41AC_185DC266548E_0/l/2/0_0.jpg"/>
 <file href="media/panorama_B00140B8_B93A_205A_41AC_185DC266548E_0/u/2/0_0.jpg"/>
@@ -87,6 +62,30 @@
 <file href="media/panorama_B60ACD07_BAEA_6036_41E3_959C36C53BDF_0/b/1/1_1.jpg"/>
 <file href="media/panorama_B60ACD07_BAEA_6036_41E3_959C36C53BDF_0/b/1/0_0.jpg"/>
 <file href="media/panorama_B60ACD07_BAEA_6036_41E3_959C36C53BDF_0/b/1/0_1.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/r/1/1_0.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/r/1/1_1.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/r/1/0_0.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/r/1/0_1.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/l/1/1_0.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/l/1/1_1.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/l/1/0_0.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/l/1/0_1.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/u/1/1_0.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/u/1/1_1.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/u/1/0_0.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/u/1/0_1.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/d/1/1_0.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/d/1/1_1.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/d/1/0_0.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/d/1/0_1.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/f/1/1_0.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/f/1/1_1.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/f/1/0_0.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/f/1/0_1.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/b/1/1_0.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/b/1/1_1.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/b/1/0_0.jpg"/>
+<file href="media/panorama_B0053390_B93A_202A_41C0_9ECC09437E25_0/b/1/0_1.jpg"/>
         </resource>
     </resources>
 </manifest>
